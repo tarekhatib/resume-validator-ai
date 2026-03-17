@@ -1,0 +1,11 @@
+name: ai_project
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pandas
+prefix: /opt/anaconda3/envs/ai_project
